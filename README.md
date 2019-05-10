@@ -1,2 +1,11 @@
-# Pluralsight-Data-science-version-control
-This repo contains all the files and solutions used in the Pluralsight course Git for Data Science 
+# Welcome to Version control for Data Science
+
+In this repo you will find all the content for the Data Science Version Control course from Pluralsight. 
+
+In this course you will cover the following: 
+- Data Science
+- Version control
+- DevOps
+
+
+Welcome.
